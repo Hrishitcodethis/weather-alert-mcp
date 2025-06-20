@@ -8,8 +8,8 @@ Follow these steps to set up and run the project:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/mcptest.git # Replace with actual repo URL
-    cd mcptest
+    git clone https://github.com/Hrishitcodethis/weather-alert-mcp.git # Replace with actual repo URL
+    cd weather-alert-mcp
     ```
 
 2.  **Set up Environment Variables:**
